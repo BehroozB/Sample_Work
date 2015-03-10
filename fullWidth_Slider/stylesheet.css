@@ -1,0 +1,236 @@
+/*****************************************
+ * Designed and built from scratch by Behrooz Babazadeh
+ * Copyright 2014 Contributors
+ * Released under the MIT license
+******************************************/
+
+html, body {
+	margin: 0;
+	padding: 0;
+}
+
+/* Header is still under construction */
+
+.header {
+	background-color: black;
+	z-index: 1;
+	display: block;
+}
+
+#logo {
+	z-index: 2;
+	position: relative;
+	color: white;
+	padding: 0em 1em 0em 1em;
+	margin: 0em 1em 0em 2em;
+	display: inline-block;
+}
+
+.header-nav-container {
+	z-index: 2;
+	position: relative;
+	background-color: blue;
+	padding: 0em 1em 0em 1em;
+	margin: 0em 1em 0em 2em;
+	display: inline-block;
+}
+
+/****** Below will be the hero unit ********/
+
+.hero-container {
+	position: relative;
+	height: 740px;
+	width: 100%;
+	z-index: 1;
+	padding: 0em;
+	margin: 0 auto;
+	overflow: hidden;
+}
+
+.arrow-Container {
+	z-index: 10;
+	position: absolute;
+	width: 100%;
+	margin: 0 auto;
+}
+
+#left-Arrow {
+	z-index: 1000;
+	float: left;
+	position: relative;
+	margin: 325px 0px 0px 20px;
+}
+
+#right-Arrow {
+	z-index: 1000;
+	float: right;
+	position: relative;
+	margin: 325px 20px 0px 0px;
+}
+
+/******** Hover over effect *********/
+
+#left-Arrow:hover {
+	color: #787878;
+	overflow: hidden;
+}
+
+#right-Arrow:hover {
+	color: #787878;
+	overflow: hidden;
+}
+
+/******* Arrow effects above*********/
+
+/******** Carousel Nav Below*******/
+
+.carousel-nav {
+	background: #787979;
+	width: auto;
+	margin: 0px 0px 0px 0px;
+	height: 24px;
+	padding: 0px 0px 0px 0px;
+	overflow: hidden;
+}
+
+div.carousel-nav li {
+	list-style: none;
+	display: block;
+	float: left;
+	line-height: 23px;
+	text-align: center;
+	border-right: 1px solid #000000;
+	font-size: 11px;
+	letter-spacing: .1em;
+	width: 287px;
+	height: 23px;
+	z-index: 3;
+	margin: 0px;
+	color: #ffffff;
+	position: relative;
+}
+
+div.carousel-nav li:last-child {
+	border-right: none !important;
+}
+
+div.carousel-nav li:hover {
+	background-color: #000000;
+}
+
+
+
+/******************* END of the carousel nav *********************/
+
+/*********************** Start of the slides **********************/
+
+div.slide-container {
+	width: 100%;
+	height: 100%;
+	position: relative;
+	max-height: 800px;
+	max-width: 1500px;
+}
+
+div.slide-container img {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+}
+
+img#slide-one {
+	z-index: 4;
+
+}
+
+img#slide-two {
+	z-index: 8;
+	display: none;	
+}
+
+img#slide-three {
+	z-index: 7;
+	display: none;
+}
+
+img#slide-four {
+	z-index: 6;
+	display: none;
+}
+
+img#slide-five {
+	z-index: 5;
+	display: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,398 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"last",
+				"lastIndexOf"
+			],
+			[
+				"mouse",
+				"mouseenter"
+			],
+			[
+				"back",
+				"background-image"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"ar",
+				"article	Tag"
+			],
+			[
+				"a",
+				"vertical-align"
+			],
+			[
+				"mag",
+				"margin-top"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"top",
+				"padding-top"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"bac",
+				"background-size"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"in",
+				"inline"
+			],
+			[
+				"p",
+				"position"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"jav",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"sys",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"synj",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"install p",
+				"Package Control: Install Package"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript + firebug"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"lint",
+				"Preferences: SublimeLint Settings – User"
+			],
+			[
+				"ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"synt",
+				"Set Syntax: PHP"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib2,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); os.makedirs( ipp ) if not os.path.exists(ipp) else None; urllib2.install_opener( urllib2.build_opener( urllib2.ProxyHandler()) ); by = urllib2.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); open( os.path.join( ipp, pf), 'wb' ).write(by) if dh == h else None; print('Error validating download (got %s instead of %s), please try manual install' % (dh, h) if dh != h else 'Please restart Sublime Text to finish installation')"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Applications/MAMP/htdocs/behroozb/1st Site/FirstSite.php",
+		"/Applications/MAMP/htdocs/wp-content/behroozExampleTheme/index.php",
+		"/Applications/MAMP/htdocs/wp-content/behroozExampleTheme/header.php",
+		"/Applications/MAMP/htdocs/wp-content/wp-UniversalTemplate/style.css",
+		"/Applications/MAMP/htdocs/wp-content/singlePage.php",
+		"/Applications/MAMP/htdocs/wp-content/wp_firstAttemptTemplate",
+		"/Applications/MAMP/htdocs/wp-content/behroozExampleTheme/style.css",
+		"/Applications/MAMP/htdocs/wp-content/behroozExampleTheme/functions.php",
+		"/Applications/MAMP/htdocs/wp-content/behroozExampleTheme/footer.php",
+		"/Users/Behrooz/Desktop/School Fall Semester/CMIS 102- Design/Week2ChapterTwo - Notes/Integers in Pseudocode and C code - Behrooz",
+		"/Users/Behrooz/Desktop/wp_Jobs/12E3414A-B5A3-4E92-A947-B2A8AE86734B/themeforest-8779919-road-agency-photography-portfolio-theme/Documentation/master slider/syntax-highlighter/scripts/shAutoloader.js",
+		"/Applications/MAMP/htdocs/wp-content/wp-UniversalTemplate/index.php",
+		"/Applications/MAMP/htdocs/projects/Project Web Sites/sun_moon/sunMoonJs.js",
+		"/Applications/MAMP/htdocs/projects/Project Web Sites/sun_moon/sunMoonHtml.html",
+		"/Applications/MAMP/htdocs/projects/Project Web Sites/WordPress Site.html",
+		"/Applications/MAMP/htdocs/projects/singlePage/index.html",
+		"/Applications/MAMP/htdocs/wp-content/wp-UniversalTemplate/header.php",
+		"/Applications/MAMP/htdocs/wp-content/wp-UniversalTemplate/footer.php",
+		"/Applications/MAMP/htdocs/wp-content/wp-UniversalTemplate/sidebar.php",
+		"/Applications/MAMP/htdocs/wp-content/header.php",
+		"/Applications/MAMP/htdocs/wp-content/style.css",
+		"/Applications/MAMP/htdocs/wp-content/index.php",
+		"/Applications/MAMP/htdocs/wp-content/functions.php",
+		"/Applications/MAMP/htdocs/wp-content/sidebar.php",
+		"/Applications/MAMP/htdocs/wp-content/page.php",
+		"/Applications/MAMP/htdocs/wp-content/archive.php",
+		"/Applications/MAMP/htdocs/wp-content/footer.php",
+		"/Applications/MAMP/htdocs/projects/Hackerrank Challenges/Find Hackerrank/indexJavaScript.js",
+		"/Applications/MAMP/htdocs/projects/Hackerrank Challenges/Find Hackerrank/index.html",
+		"/Applications/MAMP/htdocs/projects/Project Web Sites/Portfolio/Project 1/basic code.css",
+		"/Applications/MAMP/htdocs/projects/Project Web Sites/WordPress Site CSS.css",
+		"/Applications/MAMP/htdocs/projects/working Projects/indexJavaScript.js",
+		"/Applications/MAMP/htdocs/projects/working Projects/index.html",
+		"/Applications/MAMP/htdocs/projects/Project Web Sites/sun_moon/sunMoonCss.css",
+		"/Users/Behrooz/Desktop/Project Web Sites/sun_moon/sunMoonJs.js",
+		"/Users/Behrooz/Desktop/Project Web Sites/sun_moon/sunMoonCss.css",
+		"/Users/Behrooz/Desktop/Project Web Sites/sun_moon/sunMoonHtml.html",
+		"/Users/Behrooz/Desktop/theme2.html",
+		"/Users/Behrooz/Desktop/Project Web Sites/day-Night/day_night.js",
+		"/Users/Behrooz/Desktop/Project Web Sites/day-Night/day_night.css",
+		"/Users/Behrooz/Desktop/day_night.html",
+		"/Users/Behrooz/Desktop/day_night.js",
+		"/Users/Behrooz/Desktop/day_night.css",
+		"/Users/Behrooz/singlePage1/theme2.css",
+		"/Users/Behrooz/singlePage1/theme2.html",
+		"/Users/Behrooz/Desktop/theme2.css",
+		"/Users/Behrooz/Desktop/behrooz_com/index.html",
+		"/Users/Behrooz/Desktop/behrooz_com/css/stylish-portfolio.css",
+		"/Users/Behrooz/Desktop/behrooz_com/css/bootstrap.css",
+		"/Users/Behrooz/Desktop/wordPress-theme-1/Theme.html",
+		"/Users/Behrooz/Desktop/wordPress-theme-1/theme.css",
+		"/Users/Behrooz/Desktop/Project Web Sites/Portfolio/Example Sites/Blog themed.html",
+		"/Users/Behrooz/Desktop/wordPress-theme-1/Theme2/theme2.css",
+		"/Users/Behrooz/Desktop/wordPress-theme-1/theme.js",
+		"/Users/Behrooz/Desktop/projectHub/Button, Hover and hyperlinks/Java-click.js",
+		"/Users/Behrooz/Desktop/projectHub/Button, Hover and hyperlinks/Html-click.html",
+		"/Users/Behrooz/Desktop/GitHub/Project1/untitled.js",
+		"/Users/Behrooz/Desktop/GitHub/Project1/untitled.css",
+		"/Users/Behrooz/Desktop/GitHub/Project1.html",
+		"/Users/Behrooz/Desktop/GitHub/gameAge/gameAge.html",
+		"/Users/Behrooz/Desktop/GitHub/Java project Rock-Paper-Scissor/game1.js",
+		"/Users/Behrooz/Desktop/GitHub/Button, Hover and hyperlinks/Html-click.html",
+		"/Users/Behrooz/Desktop/GitHub/Button, Hover and hyperlinks/Java-click.js",
+		"/Users/Behrooz/Desktop/GitHub/Three color bars/Html-bars.html",
+		"/Users/Behrooz/Desktop/GitHub/Three color bars/Css-bars.css",
+		"/Users/Behrooz/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/Behrooz/Library/Application Support/Sublime Text 3/Packages/JSHint/README.md",
+		"/Users/Behrooz/Library/Application Support/Sublime Text 3/Packages/User/JavaScript.sublime-settings",
+		"/Users/Behrooz/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/Behrooz/Documents/sublime test/untitled.js",
+		"/Users/Behrooz/Documents/sublime test/Some.js",
+		"/Users/Behrooz/Library/Application Support/Sublime Text 3/Packages/SublimeLinter/README.md",
+		"/Users/Behrooz/Library/Application Support/Sublime Text 3/Packages/User/SublimeLint.sublime-settings",
+		"/Users/Behrooz/Downloads/session.cgi",
+		"/private/var/folders/yn/8nhlr27d0fj00v4_q79svd0r0000gq/T/d9031484-e7fa-4e9d-9477-b2d1496bf044/index.html",
+		"/Users/Behrooz/Desktop/sublime text file/example () {",
+		"/Users/Behrooz/Desktop/index.html",
+		"/private/var/folders/yn/8nhlr27d0fj00v4_q79svd0r0000gq/T/d9031484-e7fa-4e9d-9477-b2d1496bf044/behroozb_Portfolio.html",
+		"/private/var/folders/yn/8nhlr27d0fj00v4_q79svd0r0000gq/T/d018e554-8f44-4aa7-bff1-c378e3357246/public_html/wp-content/themes/flati/css/flatitheme.css",
+		"/Users/Behrooz/Desktop/Sublime Text Folder"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"		\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"style.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,20 @@
+<!DOCTYPE HTML>
+<html>
+    <script>
+        function game() {
+            var userYearInput = Number(prompt("What year were you born?"));
+            var currentDate = new Date();
+            var currentYear = currentDate.getFullYear();
+            var userAge = (currentYear - userYearInput);
+
+            if (userYearInput) {
+                alert("Thanks");
+                alert("You my friend are " + userAge + " years old.");
+            } else {
+                alert("Okay but if you change your mind just click again later.");
+            }
+        }
+    </script>
+    <input type="button" value="I know your age!" onClick="game();">
+
+</html>

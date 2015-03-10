@@ -1,0 +1,197 @@
+body {
+    background-color:#00FFFF;
+}
+
+#sun {
+	border-radius: 100%;
+    bottom: 0;
+    height: 266px;
+    left: 0;
+    margin: auto;
+    padding: 20px;
+    position: absolute;
+    right: 0;
+    top: 17px;
+    width: 266px;
+    z-index: 2;
+    border: 2px solid #FFCC00;
+	background-image: -moz-radial-gradient(45px 45px 45deg, circle cover, yellow 0%, orange 100%, red 95%);
+	background-image: -webkit-radial-gradient(45px 45px, circle cover, yellow, orange);
+	background-image: radial-gradient(45px 45px 45deg, circle cover, yellow 0%, orange 100%, red 95%);
+}
+
+#backdrop {
+	height: 100%;
+	width: 100%;
+	position: absolute;
+	z-index: 0;
+	top: 0;
+	left: 0;
+
+}
+
+#nightContainer{
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    z-index: -1;
+    top: 0;
+    left: 0; 
+    background-image: url('night_sky_2-wallpaper-1920x1080.jpg');   
+}
+
+/*	Under this comment will be the styling for the above settings	*/
+
+
+.day {
+	background-color: #00FFFF;
+}
+
+/* Above we are set with the moon and sun. As well as the background! */
+
+.cloudContainer{
+    height: 700px;
+    width: 1200px;
+    margin: 50px 0px 0px 100px;
+    position: relative;
+}
+
+#cloudONE{
+    width: 300px;
+    height:100px;
+    background: #f2f9fe;
+    background: linear-gradient(top, #f2f9fe 5%, #d6f0fd 100%);
+    background: -webkit-linear-gradient(top, #f2f9fe 5%, #d6f0fd 100%);
+    background: -moz-linear-gradient(top, #f2f9fe 5%, #d6f0fd 100%);
+    background: -ms-linear-gradient(top, #f2f9fe 5%, #d6f0fd 100%);
+    background: -o-linear-gradient(top, #f2f9fe 5%, #d6f0fd 100%);
+    border-radius: 100px;
+
+    position: absolute;
+    margin: 70px 0px 0px 50px;
+
+}
+
+#cloudOneLumpSmall{
+    height: 70px;
+    width: 70px;
+    margin: -35px 0 0 48px;
+    background: #f2f9fe;
+    border-radius: 100px;
+    position: absolute;
+
+    z-index: -1;
+}
+
+#cloudOneLumpBig{
+    height: 150px;
+    width: 150px;
+    margin: -77px 0 0 102px;
+    background: #f2f9fe;
+    border-radius: 100px;
+    position: absolute;
+
+    z-index: -1;
+}
+
+#cloudTWO {
+    width: 300px;
+    height:100px;
+    background: #f2f9fe;
+    background: linear-gradient(top, #f2f9fe 5%, #d6f0fd 100%);
+    background: -webkit-linear-gradient(top, #f2f9fe 5%, #d6f0fd 100%);
+    background: -moz-linear-gradient(top, #f2f9fe 5%, #d6f0fd 100%);
+    background: -ms-linear-gradient(top, #f2f9fe 5%, #d6f0fd 100%);
+    background: -o-linear-gradient(top, #f2f9fe 5%, #d6f0fd 100%);
+    border-radius: 100px;
+
+    position: absolute;
+    margin: 600px 0px 0px 750px;
+}
+
+#cloudTwoLumpSmall{
+    height: 70px;
+    width: 70px;
+    margin: -35px 0 0 48px;
+    background: #f2f9fe;
+    border-radius: 100px;
+    position: absolute;
+
+    z-index: -1;
+}
+
+#cloudTwoLumpBig{
+    height: 150px;
+    width: 150px;
+    margin: -77px 0 0 102px;
+    background: #f2f9fe;
+    border-radius: 100px;
+    position: absolute;
+
+    z-index: -1;
+}
+
+#moon {
+    bottom: 93px;
+    height: 300px;
+    left: 23px;
+    margin: auto;
+    padding: 71px;
+    position: absolute;
+    right: 94px;
+    top: 0;
+    width: 325px;
+    z-index: 1;
+}
+
+#shootingStarContainer{
+    position: relative;
+    z-index: 0;
+    height: 200px;
+    width:1200px;
+    margin: 0px 0px 0px 200px;
+}
+
+#shootingStar {
+    height: 100px;
+    width: 100px;
+    margin: 100px 0px 0px 215px;
+    background-color: white;
+    position: absolute;
+    z-index: 1;   
+    opacity: 0;
+    top: 10%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
